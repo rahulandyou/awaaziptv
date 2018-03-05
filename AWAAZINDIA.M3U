@@ -2,4 +2,4 @@
 #EXTINF:0, AWAAZ INDIA TV 1
 rtmp://209.58.180.132:1935/AwaazIndaTV/Live
 #EXTINF:0, AWAAZ INDIA TV 2
-rtmp://209.58.180.132:1935/AwaazIndaTV/Live
+http://209.58.180.132/AwaazIndaTVhls/Live.m3u8
