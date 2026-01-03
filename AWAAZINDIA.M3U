@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:0, AWAAZ INDIA TV RTMP
-rtmp://awaazindia.livebox.co.in:1935/AwaazIndaTV/Live
+http://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
 #EXTINF:0, AWAAZ INDIA TV HLS
-http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+http://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
 #EXTINF:0, Live  Feed
 rtmp://209.58.180.132:1935/awaazindiatwo/awaazindiatwo
+
 
